@@ -1,0 +1,15 @@
+/*
+* File: style.css
+* Author: Szivák Gergő
+* Copyright: 2021, Szivák Gergő
+* Group: Szoft II N
+* Date: 2021-10-17
+* Github: https://github.com/Gergosz-2000/tomtestin0323
+* Licenc: GNU GPL
+*/
+h1{
+	text-transform:uppercase;
+	letter-spacing:7px;
+	padding:20px 0;
+	text-align:center;
+}
