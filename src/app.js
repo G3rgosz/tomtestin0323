@@ -1,3 +1,12 @@
+/*
+* File: app.ts
+* Author: Szivák Gergő
+* Copyright: 2021, Szivák Gergő
+* Group: Szoft II N
+* Date: 2021-10-17
+* Github: https://github.com/Gergosz-2000/tomtestin0323
+* Licenc: GNU GPL
+*/
 var weight = document.querySelector("#weight");
 var height = document.querySelector("#height");
 var result = document.querySelector("#result");
